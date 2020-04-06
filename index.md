@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Hi Michael và anh Lâm Apple
+## Đây là API Docs viết cho tool LunaTouch.
+## Vẫn trong quá trình maintain vì ko có nhiều thời gian
 
-You can use the [editor on GitHub](https://github.com/mezii/LunaTouch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nếu có câu hỏi nào liên quan về tweak này, Michael và anh Lâm vui lòng vô link [Github](https://github.com/mezii/LunaTouch) để mở issues nhé !
 
-### Markdown
+### Đù viết hơi nhiều đây. Mệt ghê. Tối ni chắc phải mua thêm cafe thôi.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
