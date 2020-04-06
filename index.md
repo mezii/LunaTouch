@@ -1,11 +1,31 @@
-## Hi Michael và anh Lâm Apple
-## Đây là API Docs viết cho tool LunaTouch.
-## Vẫn trong quá trình maintain vì ko có nhiều thời gian
+## API DOCUMENTATION FOR LUNA TOUCH
+## IN MAINTAIN for iOS 12 (For Another Version, Please contact me through email: robertlee1859@gmail.com)
 
+### iOS Roadmap
+1. Libs Compile
+2. Add API
+  - LunaTouchLib
+  - GCDWebServer
+  - luaInterpreter 
+  - SSZipArchive
+  - SaveFileLib
+  - ColorDetectionLib
+  - VNCLib
+3. Client for Windows
+4. Add tweak for specific apps.
+
+
+## TO DEVELOPERS:
+If You need any seperated framework for developing by yourself. 
+## TO USERS:
+IF you need more API, or make specific tweak to targeted app (Example: Gmail, Youtube..)
+
+**Feel free to contact me. ** Gmail:robertlee1859@gmail.com or below: 
 
 Nếu có câu hỏi nào liên quan về tweak này, Michael và anh Lâm vui lòng vô link [Github](https://github.com/mezii/LunaTouch) -> Issues, Open một issues rồi hỏi nghe
 
-### Đù viết hơi nhiều đây. Mệt ghê. Tối ni chắc phải mua thêm cafe thôi.
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
