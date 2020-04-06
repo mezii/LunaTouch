@@ -3,7 +3,7 @@
 ## Vẫn trong quá trình maintain vì ko có nhiều thời gian
 
 
-Nếu có câu hỏi nào liên quan về tweak này, Michael và anh Lâm vui lòng vô link [Github](https://github.com/mezii/LunaTouch) để mở issues nhé !
+Nếu có câu hỏi nào liên quan về tweak này, Michael và anh Lâm vui lòng vô link [Github](https://github.com/mezii/LunaTouch) -> Issues, Open một issues rồi hỏi nghe
 
 ### Đù viết hơi nhiều đây. Mệt ghê. Tối ni chắc phải mua thêm cafe thôi.
 
